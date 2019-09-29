@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569804770 source:c:\users\zrman2012\desktop\codingclub quick problems\c++\primethree\main.cpp
+	<iostream>
+	<vector>
+	<numeric>
+	<algorithm>
+
