@@ -4,7 +4,7 @@ Coding Club Problem Set
 Sorted in order of difficulty
 
 
-     Coding Club Quick Test Coffee Beans
+          Coding Club Quick Test Coffee Beans
 
  - How it works?
  
@@ -17,7 +17,9 @@ Sorted in order of difficulty
  - Example output 'Coffee Beans', 'Coffee Beans', 'Coffee Beans', 'sleepy'
 
 
-      Coding Club Quick Test Palindrome
+
+
+          Coding Club Quick Test Palindrome
 
  - How it works?
  
@@ -29,7 +31,9 @@ Sorted in order of difficulty
  - You could improve this example by allowing the input of phrases and sentences! (e.g "Taco Cat" -> True)
  
  
-      Coding Club Quick Test Pythagoras Therom
+ 
+ 
+          Coding Club Quick Test Pythagoras Therom
 
  - How it works?
  
@@ -41,7 +45,9 @@ Sorted in order of difficulty
  - Example output (3, 4, 5)
  
  
-      Coding Club Quick Test FizzBuzz
+ 
+ 
+          Coding Club Quick Test FizzBuzz
 
  - How it works?
 
@@ -52,7 +58,9 @@ Sorted in order of difficulty
  - Example output 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
  
  
-      Coding Club Quick Test SpongeBob
+ 
+ 
+          Coding Club Quick Test SpongeBob
 
  - How it works?
 
@@ -65,7 +73,9 @@ Sorted in order of difficulty
  - Example output 10, 11, Sponge, Bob, Sponge, 15, SpongeBob, 17, Sponge, Patrick, 20
  
  
-      Coding Club Quick Test Prime Three
+ 
+ 
+          Coding Club Quick Test Prime Three
 
  - How it works?
  
